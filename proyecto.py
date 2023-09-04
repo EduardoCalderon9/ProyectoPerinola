@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(layout="wide")
 st.title("Proyecto")
+st.write('Eduardo Calderon - 18002632')
 st.write('Repositorio de Github: https://github.com/EduardoCalderon9/ProyectoPerinola')
 resultados_perinola = ["Pon 1", "Pon 2", "Toma 1", "Toma 2", "Todos Ponen", "Toma Todo"]
 
